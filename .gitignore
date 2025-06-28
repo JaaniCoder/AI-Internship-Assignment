@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+*.faiss
+.env
+.DS_Store
+*.xlsx
+*.xls
+*.ipynb_checkpoints/
+vector_db/

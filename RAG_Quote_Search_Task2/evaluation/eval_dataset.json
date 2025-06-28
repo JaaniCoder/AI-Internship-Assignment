@@ -1,0 +1,20 @@
+[
+    {
+        "query": "quotes about failure and resilience",
+        "answer": "These quotes emphasize learning from setbacks and bouncing back stronger.",
+        "reference": "Quotes that inspire resilience and personal growth after failure.",
+        "ground_truths": [
+            "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+            "Only those who dare to fail greatly can ever achieve greatly."
+        ]
+    },
+    {
+        "query": "love quotes by famous writers",
+        "answer": "These quotes reflect the emotional and poetic aspects of love from great writers.",
+        "reference": "Quotes that feels romantic and made you feel the essence of true love",
+        "ground_truths": [
+            "Love looks not with the eyes, but with the mind.",
+            "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."
+        ]
+    }
+]
