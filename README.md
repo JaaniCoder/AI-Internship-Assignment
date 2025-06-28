@@ -126,6 +126,6 @@ Please feel free to reach out for a walkthrough or clarification.
 
 ---
 
-**Author:** \[Jitin]
-**Email:** \[[theshayarguyjaani.@gmail.com](mailto:theshayarguyjaani.@gmail.com)]
+**Author:** \[Jitin]\
+**Email:** \[[theshayarguyjaani.@gmail.com](mailto:theshayarguyjaani.@gmail.com)]\
 **LinkedIn:** [Jitin Sharma](https://www.linkedin.com/in/jitin-sharma-5191ba2aa)
